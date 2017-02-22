@@ -1,0 +1,6 @@
+<cnt = 'http://www.qjahia.org/jahia/nt/1.0'>
+<cmix = 'http://www.qjahia.org/jahia/mix/1.0'>
+
+[cnt:Employee] > jnt:content, jmix:structuredContent
+- firstName (string)
+- lastName (string)
